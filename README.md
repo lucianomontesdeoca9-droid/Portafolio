@@ -79,4 +79,4 @@ Libre para usar y modificar.
 
 ---
 
-Desarrollado con ❤️ por Lucía
+Desarrollado con ❤️ por Luciano
